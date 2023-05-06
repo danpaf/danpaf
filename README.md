@@ -1,3 +1,5 @@
+![Alt Text](https://img.gifmagazine.net/gifmagazine/images/704479/original.gif)
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Fullstack developer</h3>
 
