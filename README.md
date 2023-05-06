@@ -1,4 +1,4 @@
-![Alt Text](https://img.gifmagazine.net/gifmagazine/images/704479/original.gif)
+![Alt Text](https://img.gifmagazine.net/gifmagazine/images/704479/original.gif){ width=150% height=150% }
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Fullstack developer</h3>
