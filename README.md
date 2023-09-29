@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danpaf" alt="danpaf" /></a> </p>
 
-- 🌱 I’m currently learning **vue.js,react,razorpages**
+- 🌱 I’m currently learning **blazor,razorpages**
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200"/>
